@@ -1,0 +1,11 @@
+# KiCAD temporary files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+_autosave-*
+fp-info-cache
+
+# Python/KMK cache
+__pycache__/
+*.py[cod]
